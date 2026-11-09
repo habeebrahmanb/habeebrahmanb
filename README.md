@@ -29,7 +29,7 @@ I work in SEO, web development, mobile app development, and AI. I help businesse
 |---|---|
 | [BestFreelanceSEO](https://www.bestfreelanceseo.com) | SEO services and digital strategy |
 | [Alpy.in](https://alpy.in) | Kerala water tourism directory |
-| [Pookki.in](https:www.//pookki.in) | Kerala power outage information platform |
+| [Pookki.in](https://www.pookki.in) | Kerala power outage information platform |
 
 ## Android Apps
 
